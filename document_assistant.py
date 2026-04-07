@@ -66,8 +66,8 @@ uploaded_file = st.file_uploader(
 )
 
 
-if st.session_state.theme == "dark":
-    st.markdown("""
+
+st.markdown("""
     <style>
     .stApp {
         background-color: #0e1117;
