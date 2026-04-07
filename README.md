@@ -159,3 +159,20 @@ This project is licensed under the MIT License.
 * Check existing issues
 
 ---
+
+---
+
+## 📬 Connect & Support
+
+**Questions or feedback?**  
+📧 Email: [masumbilla0895@gmail.com](mailto:masumbilla0895@gmail.com)  
+🔗 Project: [github.com/Masum0895/Ask_My_Docs_RAG](https://github.com/Masum0895/Ask_My_Docs_RAG)
+
+**Found this helpful?**  
+⭐ Star this repository to show support!  
+🔄 Share it with others who might benefit  
+🐛 Report issues to help improve the project
+
+---
+
+*Built with ❤️ by Masum*
